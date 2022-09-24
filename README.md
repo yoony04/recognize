@@ -15,5 +15,6 @@ ___
 git branch</br>
 git checkout 
 참 쉽죠잉~?
+___
 
-## 4. [22-09-24] I learned the tableau.
+## 3. [22-09-24] I learned the tableau.
