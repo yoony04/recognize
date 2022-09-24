@@ -15,3 +15,7 @@ I' m so tired....
 [1.마크다운](#1-마크다운)
   # 1. 마크다운
 
+## branch 생성하는 법
+git branch
+git checkout 
+참 쉽죠잉~?
